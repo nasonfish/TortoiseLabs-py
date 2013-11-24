@@ -46,6 +46,6 @@ from tortoiselabs import TortoiseLabs
 tl = TortoiseLabs('nasonfish', 'api_key')
 print(tl.vps.list_all())  # List all vps' and their info/
 print(tl.vps.info(20))    # list the info for this specific vps
-tl.support.ticket_new('My vps isn\'t working!', 'HELP!')  # create a support ticket. don't do this, this is a bad idea
+tl.support.ticket_new('My vps isn\'t working!', 'HELP!')  # create a support ticket. don't make bad ones like this though
 print(tl.billing.invoice_list())   # check out your invoice list
 ```
