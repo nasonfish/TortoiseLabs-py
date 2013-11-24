@@ -1,6 +1,6 @@
 # TortoiseLabs-py
 
-Like [TortoiseLabs-php](/nasonfish/TortoiseLabs-php), TortoiseLabs-py is a very small library made for accessing [TortoiseLabs](http://tortois.es/)'s [API](http://wiki.tortois.es/index/API) so you don't have to handle the requests.
+Like [TortoiseLabs-php](https://github.com/nasonfish/TortoiseLabs-php), TortoiseLabs-py is a very small library made for accessing [TortoiseLabs](http://tortois.es/)'s [API](http://wiki.tortois.es/index/API) so you don't have to handle the requests.
 
 This small library will allow you to use simple function names to grab data from TortoiseLabs' panel.
 
